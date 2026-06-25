@@ -1828,6 +1828,7 @@ class ViewerBase:
     # SAVE & DROP CALLBACK
     # ================================
 
+
     def ps_drop_callback(self, input: str) -> None:
         extension = os.path.splitext(input)[1]
         if extension == ".traj":
