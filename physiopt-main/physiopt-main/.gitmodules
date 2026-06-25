@@ -1,0 +1,3 @@
+[submodule "deps/trellis-physiopt"]
+	path = deps/trellis-physiopt
+	url = https://github.com/physiopt/trellis-physiopt

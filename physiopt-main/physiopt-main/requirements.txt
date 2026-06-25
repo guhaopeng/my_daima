@@ -1,0 +1,14 @@
+PyMCubes
+rtree
+dataclass_wizard[yaml]
+git+https://github.com/clementjambon/torch-fem@7549325050061172718e5fd7250e8e053bb56c0c
+git+https://github.com/clementjambon/ps-py-plus.git@2438d064eeb46663b6c5e60122c297bb39b9a327
+git+https://github.com/clementjambon/deepdish.git@757fb06dfba0ced4cd25d48954131824e080222d
+git+https://github.com/clementjambon/ps-utils.git@49f7ef74171c576d20a8de3192710f313a29aa61
+cuda-python==12.8.0
+cupy
+-e deps/trellis-physiopt
+-e .
+-f https://data.pyg.org/whl/torch-2.4.0+cu118.html
+torch-scatter
+

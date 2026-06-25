@@ -1,0 +1,40 @@
+height: 1080
+width: 1920
+
+display_deformed_mesh: true
+display_deformed_voxels: true
+display_force_selection: true
+display_forces: true
+display_gaussians: true
+display_ref_mesh: true
+display_ref_voxels: false
+
+pos_deformed_mesh:
+- -1.2
+- 0.0
+- 0.0
+pos_deformed_voxels:
+- -1.2
+- 1.2
+- 0.0
+pos_force_selection:
+- 1.2
+- 0.0
+- 0.0
+pos_forces:
+- 1.2
+- 1.2
+- 0.0
+pos_gaussians:
+- 0.0
+- 1.2
+- 0.0
+pos_ref_mesh:
+- 0.0
+- 0.0
+- 0.0
+pos_ref_voxels:
+- -1.2
+- 0.0
+- 1.2
+
